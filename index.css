@@ -52,26 +52,14 @@ body{
 	font-family: 'Raleway', sans-serif;
 	color: white;
 }
-
-/*sobre mim*/
-#notebook {
-	width: 55%;
-	height: 35%;
-	margin-bottom: -40%;
-	margin-top: -10%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 #aboutMe{
 	background-color: #ff7473;
 	width: 100%;
-	padding: 10% 0 15% 0;
+	padding: 14% 0 13% 0;
 	text-align: center;
 }
 #aboutMe #welcome{
 	font-size: 80px;
-	margin-top: -20%;
 }
 #aboutMe #name{
 	font-size: 40px;
