@@ -71,6 +71,7 @@ body{
 }
 #aboutMe #welcome{
 	font-size: 80px;
+	margin-top: -20%;
 }
 #aboutMe #name{
 	font-size: 40px;
